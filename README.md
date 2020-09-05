@@ -2,7 +2,7 @@
 
 With long video conference calls, I use the hardware mute button on my Lenovo 520 (Ubuntu 20.04).
 
-This script picks up the "mic mute/unmute" via dbus, and then turns the CapsLock LED light on ("on air") or off ("off air"). This way you always know whether you mic is on or off, and you can be a gooz video conference call citizen.
+This script picks up the "mic mute/unmute" via dbus, and then turns the CapsLock LED light on ("on air") or off ("off air"). This way you always know whether you mic is on or off, and you can be a good video conference call citizen.
 
 This script may not work on other hardware.
 
